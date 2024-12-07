@@ -10,7 +10,7 @@ import Mongodb from '../assets/Mongodb.png'
 import Mysql from '../assets/Mysql.png'
 import Express from '../assets/Express.png'
 import Php from '../assets/Php.png'
-import NextJs from '../assets/NextJs.png'
+import NextJsLogo from '../assets/Nextjs.png'
 
 const About = () => {
   return (
@@ -54,7 +54,7 @@ const About = () => {
                   <span className='font-semibold'>Php</span>
                 </div>
                 <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
-                  <img src={NextJs} alt="" className='w-9 '/>
+                  <img src={NextJsLogo} alt="" className='w-9 '/>
                   <span className='font-semibold'>Next Js</span>
                 </div>
                 <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
