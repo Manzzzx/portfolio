@@ -1,6 +1,6 @@
 import hero from '../assets/Hero.png'
 import reactlogo from '../assets/React.png'
-import Nextjs from '../assets/Nextjs.png'
+import NextjsLogo from '../assets/Nextjs.png'
 import tailwind from '../assets/Tailwindcss.png'
 // import herobg from '../assets/herobg.jpg'
 
@@ -38,7 +38,7 @@ const Hero = () => {
               className="lg:h-[90vh] h-96"
             />
             <img src={reactlogo} alt="" className='absolute w-10 top-36 left-0 rounded-full md:hidden'/>
-            <img src={Nextjs} alt="" className='absolute w-10 top-0 right-5 md:hidden'/>
+            <img src={NextjsLogo} alt="" className='absolute w-10 top-0 right-5 md:hidden'/>
             <img src={tailwind} alt="" className='absolute w-10 rounded-full right-0 bottom-36 md:hidden'/>
           </div>
         </div>
