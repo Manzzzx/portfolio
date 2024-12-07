@@ -5,10 +5,10 @@ import { Autoplay, Pagination } from 'swiper/modules';
 
 const Gallery = () => {
     const images = [
-        { id: 1, src: '/src/assets/1.jpg', alt: 'Image 1' },
-        { id: 2, src: '/src/assets/2.jpg', alt: 'Image 2' },
-        { id: 3, src: '/src/assets/3.jpg', alt: 'Image 3' },
-        { id: 4, src: '/src/assets/4.jpg', alt: 'Image 4' },
+        { id: 1, src: '1.jpg', alt: 'Image 1' },
+        { id: 2, src: '2.jpg', alt: 'Image 2' },
+        { id: 3, src: '3.jpg', alt: 'Image 3' },
+        { id: 4, src: '4.jpg', alt: 'Image 4' },
     ];
 
     return (
