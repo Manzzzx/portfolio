@@ -1,6 +1,6 @@
 import Lottie from 'lottie-react'
 import instagram from '../assets/Instagram.png'
-import linkedin from '../assets/Linkedin.png'
+import linkedin from '../assets/linkedin.png'
 import github from '../assets/Github.png'
 import Contact from '../assets/Contact.json'
 
